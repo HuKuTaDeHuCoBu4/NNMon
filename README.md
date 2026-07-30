@@ -8,8 +8,6 @@
 
 <img width="575" height="325" alt="Screenshot_1" src="https://github.com/user-attachments/assets/955ebc58-a374-47dc-997b-be077585b641" />
 
-<img width="525" height="325" alt="Screenshot_3" src="https://github.com/user-attachments/assets/028d84fc-129e-40f0-a21b-9839068f4917" />
-
 ---
 
 ## Основные возможности
@@ -21,6 +19,10 @@
 - **Сохранение логов и статистики** в папке `logs`.
 - **Звуковые уведомления** (настраиваемые).
 - **Сворачивание в системный трей**.
+
+---
+
+<img width="525" height="325" alt="Screenshot_3" src="https://github.com/user-attachments/assets/028d84fc-129e-40f0-a21b-9839068f4917" />
 
 ---
 
